@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01_SOLID/01_SOLID.iml" filepath="$PROJECT_DIR$/01_SOLID/01_SOLID.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_Generics/02_Generics.iml" filepath="$PROJECT_DIR$/02_Generics/02_Generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03_Collections/03_Collections.iml" filepath="$PROJECT_DIR$/03_Collections/03_Collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04_TDD/04_TDD.iml" filepath="$PROJECT_DIR$/04_TDD/04_TDD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05_DesignPatterns/05_DesignPatterns.iml" filepath="$PROJECT_DIR$/05_DesignPatterns/05_DesignPatterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06_Logging/06_Logging.iml" filepath="$PROJECT_DIR$/06_Logging/06_Logging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/99_Threading/99_Threading.iml" filepath="$PROJECT_DIR$/99_Threading/99_Threading.iml" />
+    </modules>
+  </component>
+</project>
